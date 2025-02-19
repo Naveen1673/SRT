@@ -4,8 +4,6 @@
 **DISCLAIMER**☠☠ 
 |This Tool {Remote Access Tool} is **only** For the Educational purpose try only on **your** PC. Do not be evil!!! 
 
-**
-
 <p align="center">
     <img src="preview.gif" width="320", height="614"> </br>
     *Remote Access preview*

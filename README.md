@@ -39,7 +39,7 @@ To begin this project, you'll need to install the necessary Python packages on y
 
 Next, you’ll need to download the repository. While I recommend using Git, you are free to use any method you prefer. If you choose Git, you can use the following commands:
 ```
-git clone : 
+git clone : https://github.com/Naveen1673/SpectraRAT/tree/main
 
 ```
 After downloading you have to install dependencies:
